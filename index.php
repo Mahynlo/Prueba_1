@@ -12,7 +12,7 @@
             <h2>Dos<h2>
         </div>
 
-        <h1>hola tu como te encuentras</h1>
+        <h1>hola tu como te encuentras perrererer</h1>
 
 </head>
 <body>
