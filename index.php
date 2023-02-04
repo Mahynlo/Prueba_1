@@ -10,7 +10,6 @@
 
         <div><h1>este es un contenedor y  no tine dada<h1>
             <h2>Dos<h2>
-            <h3>Tres son muchos<h3>
         </div>
 
 </head>
