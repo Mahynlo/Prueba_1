@@ -12,6 +12,8 @@
             <h2>Dos<h2>
         </div>
 
+        <h1>hola</h1>
+
 </head>
 <body>
     
