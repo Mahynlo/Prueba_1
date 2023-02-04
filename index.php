@@ -8,8 +8,8 @@
     <h1>etes aes<h1>
     <h2>Este es una<h2>
 
-        <div><h1>este es un contenedor y no se modifica esto<h1>
-        <h2>Dos<h2>
+        <div><h1>este es un contenedor y  no tine dada<h1>
+            <h2>Dos<h2>
         </div>
 
 </head>
