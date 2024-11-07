@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>L pruebas de la verdad </title>
     
-    <h1>etes aes<h1>
+    <h1>Yo modifique esto<h1>
     <h2>Este es una prueba<h2>
 
         <div><h1>este es un contenedor y  no tine dada<h1>
