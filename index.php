@@ -12,7 +12,7 @@
 <body>
 
     <h1>Yo modifique esto y el conficto esta solucionado<h1>
-    <h2>Este es una prueba<h2>
+    <h2>Este es una prueba de modificacion en la tercera rama <h2>
 
             <div>
                 <h1>este es un contenedor y no tine dada<h1>
